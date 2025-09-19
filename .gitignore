@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Build/Distribution
+build/
+dist/
+*.egg-info/
+
+# Data files (optional - ignore large datasets)
+data/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+
+/health_insurance_premium_predictor/
