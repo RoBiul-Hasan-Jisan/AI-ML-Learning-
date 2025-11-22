@@ -20,7 +20,7 @@ w = w + η * (y_true - y_pred) * x
 b = b + η * (y_true - y_pred)
 Similar to perceptron, but y_pred is continuous, not binary.
 
-This allows smoother learning and better convergence
+This allows smoother learning and better convergence.
 
 
 ADALINE: Continuous output, uses gradient descent, smoother learning.
