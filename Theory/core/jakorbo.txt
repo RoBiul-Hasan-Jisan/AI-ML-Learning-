@@ -1,0 +1,167 @@
+ Regression Algorithms
+
+Used for predicting continuous numeric values.
+
+1. Linear Models
+
+Linear Regression
+
+Ridge Regression
+
+Lasso Regression
+
+ElasticNet Regression
+
+Bayesian Linear Regression
+
+Polynomial Regression
+
+Tree-based Models
+
+Decision Tree Regressor
+
+Random Forest Regressor
+
+Extra Trees Regressor
+
+Gradient Boosting Regressor (GBR)
+
+XGBoost Regressor
+
+LightGBM Regressor
+
+CatBoost Regressor
+
+3. k-Nearest Neighbors
+
+KNN Regressor
+
+4. Support Vector Machines
+
+SVR (Support Vector Regression)
+
+5. Probabilistic / Statistical Models
+
+ARIMA / SARIMA (time series)
+
+Gaussian Process Regression
+
+Quantile Regression
+
+6. Neural Network Models
+
+Artificial Neural Networks (ANN Regression)
+
+RNN / LSTM / GRU (Regression for time series)
+
+Transformer Regression Models
+
+ Classification Algorithms
+
+Used for predicting categories/labels.
+
+1. Linear Models
+
+Logistic Regression
+
+Linear Discriminant Analysis (LDA)
+
+Quadratic Discriminant Analysis (QDA)
+
+2. Tree-based Models
+
+Decision Tree Classifier
+
+Random Forest Classifier
+
+Extra Trees Classifier
+
+Gradient Boosting Classifier
+
+XGBoost Classifier
+
+LightGBM Classifier
+
+CatBoost Classifier
+
+3. Support Vector Machines
+
+SVC (Support Vector Classifier)
+
+Linear SVC
+
+RBF SVC
+
+4. k-Nearest Neighbors
+
+KNN Classifier
+
+5. Bayes Classifiers
+
+Naive Bayes
+
+Gaussian NB
+
+Multinomial NB
+
+Bernoulli NB
+
+Complement NB
+
+6. Ensemble Methods
+
+Bagging Classifier
+
+Boosting Classifier
+
+AdaBoost
+
+Stacking Classifier
+
+Voting Classifier
+
+7. Neural Network Models
+
+Artificial Neural Networks (ANN Classification)
+
+CNN (Image classification)
+
+RNN / LSTM Classification
+
+Transformer-based Classification (e.g., BERT)
+
+ Algorithms that handle BOTH (Regression + Classification)
+
+Decision Trees
+
+Random Forest
+
+Gradient Boosting
+
+XGBoost
+
+LightGBM
+
+CatBoost
+
+k-Nearest Neighbors (KNN)
+
+SVM (SVC, SVR)
+
+Neural Networks
+
+ Classical Algorithms
+
+(Still asked in exams/interviews)
+
+Perceptron
+
+Adaline / Madaline
+
+Nearest Centroid Classifier
+
+Ridge Classifier
+
+Passive Aggressive Classifier
+
+SGD Classifier / Regressor
