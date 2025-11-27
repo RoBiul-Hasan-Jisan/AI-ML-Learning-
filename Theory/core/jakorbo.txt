@@ -4,17 +4,18 @@ Used for predicting continuous numeric values.
 
 1. Linear Models
 
-Linear Regression
+Linear Regression -> done
+Simple Regression -> done 
 
-Ridge Regression
+Ridge Regression -> done 
 
-Lasso Regression
+Lasso Regression -> done 
 
 ElasticNet Regression
 
 Bayesian Linear Regression
 
-Polynomial Regression
+Polynomial Regression -> done 
 
 Tree-based Models
 
