@@ -11,7 +11,7 @@ Ridge Regression -> done
 
 Lasso Regression -> done 
 
-ElasticNet Regression
+ElasticNet Regression->done 
 
 Bayesian Linear Regression
 
@@ -19,13 +19,13 @@ Polynomial Regression -> done
 
 Tree-based Models
 
-Decision Tree Regressor
+Decision Tree Regressor ->done 
 
-Random Forest Regressor
+Random Forest Regressor ->done 
 
 Extra Trees Regressor
 
-Gradient Boosting Regressor (GBR)
+Gradient Boosting Regressor (GBR)->done 
 
 XGBoost Regressor
 
@@ -57,7 +57,7 @@ RNN / LSTM / GRU (Regression for time series)
 
 Transformer Regression Models
 
- Classification Algorithms
+Classification Algorithms
 
 Used for predicting categories/labels.
 
@@ -131,7 +131,7 @@ RNN / LSTM Classification
 
 Transformer-based Classification (e.g., BERT)
 
- Algorithms that handle BOTH (Regression + Classification)
+Algorithms that handle BOTH (Regression + Classification)
 
 Decision Trees
 
@@ -151,18 +151,18 @@ SVM (SVC, SVR)
 
 Neural Networks
 
- Classical Algorithms
+Classical Algorithms
 
 (Still asked in exams/interviews)
 
-Perceptron
+Perceptron ->done
 
-Adaline / Madaline
+Adaline / Madaline-done 
 
-Nearest Centroid Classifier
+Nearest Centroid Classifier-done
 
-Ridge Classifier
+Ridge Classifier ->done
 
-Passive Aggressive Classifier
+Passive Aggressive Classifier ->done 
 
-SGD Classifier / Regressor
+SGD Classifier / Regressor -> done 
