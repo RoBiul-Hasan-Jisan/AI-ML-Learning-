@@ -27,11 +27,11 @@ Extra Trees Regressor
 
 Gradient Boosting Regressor (GBR)->done 
 
-XGBoost Regressor
+XGBoost Regressor -> done 
 
-LightGBM Regressor
+LightGBM Regressor ->done 
 
-CatBoost Regressor
+CatBoost Regressor ->done 
 
 3. k-Nearest Neighbors
 
@@ -79,11 +79,11 @@ Extra Trees Classifier
 
 Gradient Boosting Classifier
 
-XGBoost Classifier
+XGBoost Classifier ->done 
 
-LightGBM Classifier
+LightGBM Classifier ->done 
 
-CatBoost Classifier
+CatBoost Classifier ->done 
 
 3. Support Vector Machines
 
