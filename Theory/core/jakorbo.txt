@@ -87,19 +87,19 @@ CatBoost Classifier ->done
 
 3. Support Vector Machines
 
-SVC (Support Vector Classifier)
+SVC (Support Vector Classifier)->done
 
-Linear SVC
+Linear SVC->done
 
-RBF SVC
+RBF SVC->done
 
 4. k-Nearest Neighbors
 
-KNN Classifier
+KNN Classifier-done 
 
 5. Bayes Classifiers
 
-Naive Bayes
+Naive Bayes->done 
 
 Gaussian NB
 
@@ -111,11 +111,11 @@ Complement NB
 
 6. Ensemble Methods
 
-Bagging Classifier
+Bagging Classifier->done
 
-Boosting Classifier
+Boosting Classifier->done
 
-AdaBoost
+AdaBoost->done
 
 Stacking Classifier
 
