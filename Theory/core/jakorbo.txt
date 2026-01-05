@@ -166,3 +166,223 @@ Ridge Classifier ->done
 Passive Aggressive Classifier ->done 
 
 SGD Classifier / Regressor -> done 
+
+
+
+
+
+
+
+
+
+
+UNSUPERVISED LEARNING ALGORITHMS
+
+
+Clustering Algorithms
+
+Used for grouping similar data points.
+
+1. Partition-based Models
+
+K-Means Clustering
+
+K-Medoids (PAM)
+
+Mini-Batch K-Means
+
+2. Hierarchical Models
+
+Agglomerative Clustering
+
+Divisive Clustering
+
+Linkage methods:
+
+Single Linkage
+
+Complete Linkage
+
+Average Linkage
+
+Ward’s Method
+
+3. Density-based Models
+
+DBSCAN
+
+HDBSCAN
+
+OPTICS
+
+4. Model-based / Probabilistic Clustering
+
+Gaussian Mixture Models (GMM)
+
+Expectation–Maximization (EM)
+
+5. Graph-based Clustering
+
+Spectral Clustering
+
+Community Detection (Louvain – concept)
+
+
+
+Dimensionality Reduction
+
+Used for feature extraction, visualization, noise removal.
+
+  1. Linear Methods
+
+Principal Component Analysis (PCA)
+
+Truncated SVD
+
+Factor Analysis
+
+
+Independent Component Analysis (ICA)
+
+
+
+ 2. Non-linear Methods
+
+t-SNE
+
+UMAP
+
+Isomap
+
+Locally Linear Embedding (LLE)
+
+Kernel PCA
+
+3. Neural Network Based
+
+Autoencoders
+
+Variational Autoencoders (VAE)
+
+
+
+Anomaly / Outlier Detection
+
+Used for fraud detection, fault detection, rare events.
+
+1. Distance-based Methods
+
+Z-score
+
+IQR Method
+
+kNN-based Outlier Detection
+
+2. Model-based Methods
+
+Isolation Forest
+
+One-Class SVM
+
+Local Outlier Factor (LOF)
+
+Elliptic Envelope
+
+
+
+Association Rule Mining
+
+Used for discovering relationships in transactions.
+
+Apriori Algorithm
+
+FP-Growth Algorithm
+
+Metrics
+
+Support
+
+Confidence
+
+Lift
+
+Conviction
+
+
+
+Topic Modeling (Text – Unsupervised NLP)
+1. Probabilistic Models
+
+Latent Dirichlet Allocation (LDA)
+
+Probabilistic Latent Semantic Analysis (pLSA)
+
+2. Matrix Factorization
+
+Non-negative Matrix Factorization (NMF)
+
+Latent Semantic Analysis (LSA)
+
+
+
+ Representation Learning
+
+Used for learning useful embeddings.
+
+Autoencoders
+
+Variational Autoencoders (VAE)
+
+Contrastive Learning (intro level)
+
+Self-Supervised Learning (concept)
+
+
+
+Evaluation Metrics (Unsupervised-Specific)
+Clustering Evaluation
+
+Silhouette Score
+
+Davies–Bouldin Index
+
+Calinski–Harabasz Index
+
+Dimensionality Reduction
+
+Explained Variance Ratio (PCA)
+
+Reconstruction Error
+
+
+Algorithms That Bridge Unsupervised → Supervised
+
+(VERY IMPORTANT)
+
+PCA + Classifier
+
+Autoencoder + Classifier
+
+Clustering as feature engineering
+
+Semi-supervised learning (concept)
+
+EXAM 
+
+If you know these well, you’re solid:
+
+K-Means
+
+Hierarchical Clustering
+
+DBSCAN
+
+PCA
+
+GMM
+
+Isolation Forest
+
+t-SNE vs UMAP
+
+LDA (Topic Modeling)
